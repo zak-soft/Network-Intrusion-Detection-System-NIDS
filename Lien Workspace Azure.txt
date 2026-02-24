@@ -1,0 +1,2 @@
+Lien Workspace Azure(Base de données,code..) :
+https://ml.azure.com/?tid=158716cf-46b9-48ca-8c49-c7bb67e575f3&wsid=/subscriptions/4f3bac01-0b67-4120-9b85-b45a35a790a3/resourceGroups/Intrusion_Detection_ML/providers/Microsoft.MachineLearningServices/workspaces/Intrusion_Detection_Workspace
